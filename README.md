@@ -3,10 +3,6 @@ This is a simple e-commerce website built with Django (Python) and PayPal is add
 
 I've made this as a "Jewelry Shop" website but you can make any website you like.
 
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=7IQwbIYfkNI "Django Simple E-Commerce Website")
-
-
 And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 ## Features of this Project
@@ -36,16 +32,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 ## Support Developer
 1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
 2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
 
 ## How to Install and Run this project?
 
@@ -95,10 +81,6 @@ $  source venv/bin/activate
 ```
 
 **3. Clone this project**
-```
-$  git clone https://github.com/vijaythapa333/django-jewelry-shop.git
-```
-
 Then, Enter the project
 ```
 $  cd django-jewelry-shop
@@ -147,8 +129,4 @@ $  python3 manage.py createsuperuser
 Then Add Email, Username and Password
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
